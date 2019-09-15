@@ -21,5 +21,5 @@ Thursday, the 12th of September, 2019
 Sunday, the 15th of September, 2019  
 **Task 2.2 (linuxcommand)**. Learning the Shell - **is finished**  
 ![longread](task_unix_shell/long_read.png)  
-An **expantion** chapter is quite **useful**  
+The **expantion** chapter is quite **useful**  
 A **disadvantage** is a **longread** tutorial form  

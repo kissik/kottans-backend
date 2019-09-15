@@ -23,3 +23,9 @@ Sunday, the 15th of September, 2019
 ![longread](task_unix_shell/long_read.png)  
 The **expantion** chapter is quite **useful**  
 A **disadvantage** is a **longread** tutorial form  
+
+## Git Collaboration
+
+Sunday, the 15th of September, 2019  
+**Task 3.1 (udacity)**. Version Control with Git - **is finished**  
+![udacity-version-control-with-git](task_git_collaboration/udacity-version-control-with-git.png)  

@@ -29,3 +29,10 @@ A **disadvantage** is a **longread** tutorial form
 Sunday, the 15th of September, 2019  
 **Task 3.1 (udacity)**. Version Control with Git - **is finished**  
 ![udacity-version-control-with-git](task_git_collaboration/udacity-version-control-with-git.png)  
+
+## Relational Databases Basics  
+
+Monday, the 16th of September, 2019  
+**Theory (codecademy)**. SQL analyzing Business Metrics - **is finished**  
+![codecademy-sql-analyzing-business-metrics](sql_basics/codecademy-sql-analyzing-business-metrics.png)  
+**Practice**. Sql query: [select.sql](sql_basics/select.sql)

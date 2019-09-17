@@ -30,6 +30,10 @@ Sunday, the 15th of September, 2019
 **Task 3.1 (udacity)**. Version Control with Git - **is finished**  
 ![udacity-version-control-with-git](task_git_collaboration/udacity-version-control-with-git.png)  
 
+Tuesday, the 17th of September, 2019  
+**Task 3.2 (udacity)**. GitHub & Collaboration - **is finished**  
+![udacity-github-and-collaboration](task_git_collaboration/udacity-github-and-collaboration.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

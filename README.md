@@ -34,6 +34,12 @@ Tuesday, the 17th of September, 2019
 **Task 3.2 (udacity)**. GitHub & Collaboration - **is finished**  
 ![udacity-github-and-collaboration](task_git_collaboration/udacity-github-and-collaboration.png)  
 
+## NodeJS Basics 1
+
+Friday, the 20th of September, 2019  
+**Task 4.1 (learnyounode)**. Learn You The Node.js For Much Win! **is finished**  
+![learnyounode](node_basic_1/learnyounode.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

@@ -40,6 +40,10 @@ Friday, the 20th of September, 2019
 **Task 4.1 (learnyounode)**. Learn You The Node.js For Much Win! **is finished**  
 ![learnyounode](node_basic_1/learnyounode.png)  
 
+Monday, the 23th of September, 2019  
+**Task 4.2 (functionaljavascript)**. Functional Javascript Workshop **is finished**  
+![functional javascript](node_basic_1/functional-javascript.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

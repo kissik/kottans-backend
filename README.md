@@ -44,6 +44,10 @@ Monday, the 23th of September, 2019
 **Task 4.2 (functionaljavascript)**. Functional Javascript Workshop **is finished**  
 ![functional javascript](node_basic_1/functional-javascript.png)  
 
+Tuesday, the 24th of September, 2019  
+**Task 4.3 (stream-adventure)**. Stream Adventure Workshop **is finished**  
+![stream-adventure](node_basic_1/stream-adventure.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

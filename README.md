@@ -7,9 +7,9 @@ My name is Ira Afanasieva
 
 Thursday, the 12th of September, 2019  
 **Task 2.1 (codecademy)**. Learn the Command Line - **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: the **grep** command  
+_what surprised me_: **wildcards** usage  
+_what I intend to use in future_: linux shell  
 
 ![codecademy-learn-the-command-line](task_unix_shell/codecademy-learn-the-command-line.png)  
 ![codecademy-learn-the-command-line-1](task_unix_shell/codecademy-learn-the-command-line-1.png)  
@@ -17,9 +17,9 @@ _what I intend to use in future_:
 ![codecademy-learn-the-command-line-4-5](task_unix_shell/codecademy-learn-the-command-line-4-5.png) 
 
 **Task 2.1 (linuxsurvival)**. Linux Survival - **is finished**   
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: nothing  
+_what surprised me_: nothing  
+_what I intend to use in future_: linux shell  
 
 ![linuxsurvival-quiz-1](task_unix_shell/linuxsurvival-quiz-1.png)  
 ![linuxsurvival-quiz-2](task_unix_shell/linuxsurvival-quiz-2.png)  
@@ -28,9 +28,9 @@ _what I intend to use in future_:
 
 Sunday, the 15th of September, 2019  
 **Task 2.2 (linuxcommand)**. Learning the Shell - **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: the **expantion** chapter  
+_what surprised me_: the **expantion** capability  
+_what I intend to use in future_: the **expantion** chapter  
 
 ![longread](task_unix_shell/long_read.png)  
 The **expantion** chapter is quite **useful**  
@@ -40,17 +40,17 @@ A **disadvantage** is a **longread** tutorial form
 
 Sunday, the 15th of September, 2019  
 **Task 3.1 (udacity)**. Version Control with Git - **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: git options usage  
+_what surprised me_: graph option  
+_what I intend to use in future_: **git** for version control  
 
 ![udacity-version-control-with-git](task_git_collaboration/udacity-version-control-with-git.png)  
 
 Tuesday, the 17th of September, 2019  
 **Task 3.2 (udacity)**. GitHub & Collaboration - **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: explanation of `origin` and `upstream` aliases  
+_what surprised me_: the `--grep` option pretty the same as the `grep` command in linux shell  
+_what I intend to use in future_: **gitHub** for repositories store  
 
 ![udacity-github-and-collaboration](task_git_collaboration/udacity-github-and-collaboration.png)  
 
@@ -58,25 +58,25 @@ _what I intend to use in future_:
 
 Friday, the 20th of September, 2019  
 **Task 4.1 (learnyounode)**. Learn You The Node.js For Much Win! **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: everything  
+_what surprised me_: nothing  
+_what I intend to use in future_: node.js  
 
 ![learnyounode](node_basic_1/learnyounode.png)  
 
 Monday, the 23th of September, 2019  
 **Task 4.2 (functionaljavascript)**. Functional Javascript Workshop **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: everything  
+_what surprised me_: nothing  
+_what I intend to use in future_: node.js  
 
 ![functional javascript](node_basic_1/functional-javascript.png)  
 
 Tuesday, the 24th of September, 2019  
 **Task 4.3 (stream-adventure)**. Stream Adventure Workshop **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: stream capabilities  
+_what surprised me_: nothing  
+_what I intend to use in future_: stream capabilities  
 
 ![stream-adventure](node_basic_1/stream-adventure.png)  
 
@@ -84,23 +84,23 @@ _what I intend to use in future_:
 
 Thursday, the 26th of September, 2019  
 **Task 5.1.** Anatomy of a Program in Memory **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: nothing  
+_what surprised me_: nothing  
+_what I intend to use in future_: knowledge of memory mapping  
 
 **Task 5.2.** Discover memory mapping on real-life example **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: pseudo-files system **proc**  
+_what surprised me_: nothing  
+_what I intend to use in future_: pseudo-files system **proc**  
 
 **Task 5.3.** Understanding Garbage Collection and Hunting Memory Leaks in Node.js **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: V8 uses two types of garbage collection: **Scavenge**: fast but incomplete; **Mark-Sweep**: relatively slow but frees all non-referenced memory  
+_what surprised me_: V8 is written in C++  
+_what I intend to use in future_: https://github.com/bretcope/node-gc-profiler  
 
-- What's going to happen if program reaches maximum limit of stack ? *We have a stack overflow and the program receives a Segmentation Fault*  
-- What's going to happen if program requests a big (more then 128KB) memory allocation on heap ? *In Linux, if you request a large block of memory via malloc(), the C library will create an anonymous mapping instead of using heap memory.*  
-- What's the difference between Text and Data memory segments ? *Text memory segments (read and execute): stores strings and all code, writes to this area earn a program a Segmentation Fault. Data memory segments (read and write): holds the contents for static variables initialized in source code*  
+- What's going to happen if program reaches maximum limit of stack ?  *We have a stack overflow and the program receives a Segmentation Fault*  
+- What's going to happen if program requests a big (more then 128KB) memory allocation on heap ?  *In Linux, if you request a large block of memory via malloc(), the C library will create an anonymous mapping instead of using heap memory.*  
+- What's the difference between Text and Data memory segments ?  *Text memory segments (read and execute): stores strings and all code, writes to this area earn a program a Segmentation Fault. Data memory segments (read and write): holds the contents for static variables initialized in source code*  
 
 ```md
 556f931b0000-556f931e4000 r-xp 00000000 fd:00 2753976                    /usr/bin/xfce4-terminal
@@ -166,13 +166,13 @@ _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address: `Heap - 556f9423
 
 Monday, the 16th of September, 2019  
 **Theory (codecademy)**. SQL analyzing Business Metrics - **is finished**  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: nothing  
+_what surprised me_: nothing  
+_what I intend to use in future_: relational DB  
 
 ![codecademy-sql-analyzing-business-metrics](sql_basics/codecademy-sql-analyzing-business-metrics.png)  
 
 **Practice**. Sql query: [select.sql](sql_basics/select.sql)  
-_what was new to me_:  
-_what surprised me_:  
-_what I intend to use in future_:  
+_what was new to me_: nothing  
+_what surprised me_: nothing  
+_what I intend to use in future_: select syntax  

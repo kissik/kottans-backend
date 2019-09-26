@@ -82,6 +82,7 @@ _what I intend to use in future_:
 
 ## Memory Management
 
+Thursday, the 26th of September, 2019  
 **Task 5.1.** Anatomy of a Program in Memory **is finished**  
 _what was new to me_:  
 _what surprised me_:  
@@ -97,10 +98,9 @@ _what was new to me_:
 _what surprised me_:  
 _what I intend to use in future_:  
 
-Thursday, the 26th of September, 2019
      - What's going to happen if program reaches maximum limit of stack ? *We have a stack overflow and the program receives a Segmentation Fault*  
-     - What's going to happen if program requests a big (more then 128KB) memory allocation on heap ? *In Linux, if you request a large block of memory via malloc(), the C library will create an anonymous mapping instead of using heap memory.*
-     - What's the difference between Text and Data memory segments ? *Text memory segments (read and execute): stores strings and all code, writes to this area earn a program a Segmentation Fault. Data memory segments (read and write): holds the contents for static variables initialized in source code*
+     - What's going to happen if program requests a big (more then 128KB) memory allocation on heap ? *In Linux, if you request a large block of memory via malloc(), the C library will create an anonymous mapping instead of using heap memory.*  
+     - What's the difference between Text and Data memory segments ? *Text memory segments (read and execute): stores strings and all code, writes to this area earn a program a Segmentation Fault. Data memory segments (read and write): holds the contents for static variables initialized in source code*  
 
 ```md
 556f931b0000-556f931e4000 r-xp 00000000 fd:00 2753976                    /usr/bin/xfce4-terminal

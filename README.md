@@ -165,7 +165,7 @@ _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address: `Heap - 556f9423
 ## TCP. UDP. Network
 
 Thursday, the 3rd of October, 2019  
-**Theory (khanacademy)**. Internet Intro - **is finished**  
+**6.1. Theory (khanacademy)**. Internet Intro - **is finished**  
 _what was new to me_: nothing (have got some CCNA certificates...)  
 _what surprised me_: there are only women in IT ))))  
 _what I intend to use in future_: secure protocols for sure!  
@@ -175,14 +175,14 @@ _what I intend to use in future_: secure protocols for sure!
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  
-**6.1. Theory (codecademy)**. SQL analyzing Business Metrics - **is finished**  
+**12.1. Theory (codecademy)**. SQL analyzing Business Metrics - **is finished**  
 _what was new to me_: nothing  
 _what surprised me_: nothing  
 _what I intend to use in future_: relational DB  
 
 ![codecademy-sql-analyzing-business-metrics](sql_basics/codecademy-sql-analyzing-business-metrics.png)  
 
-**Practice**. Sql query: [select.sql](sql_basics/select.sql)  
+**12.2. Practice**. Sql query: [select.sql](sql_basics/select.sql)  
 _what was new to me_: nothing  
 _what surprised me_: nothing  
 _what I intend to use in future_: select syntax  

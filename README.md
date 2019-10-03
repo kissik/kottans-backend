@@ -162,6 +162,16 @@ ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsysca
 ```
 _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address: `Heap - 556f94236000-556f949ea000`, `Stack - 7ffdf8980000-7ffdf89a1000`, `MMS - 7fc650bb7000-7fc650bb8000`.
 
+## TCP. UDP. Network
+
+Thursday, the 3rd of October, 2019
+**Theory (khanacademy)**. Internet Intro - **is finished**
+_what was new to me_: nothing (have got some CCNA certificates...)  
+_what surprised me_: there are only women in IT ))))  
+_what I intend to use in future_: secure protocols for sure!  
+
+![khanacademy-internet-intro.png](task_networks/khanacademy-internet-intro.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

@@ -172,6 +172,14 @@ _what I intend to use in future_: secure protocols for sure!
 
 ![khanacademy-internet-intro.png](task_networks/khanacademy-internet-intro.png)  
 
+Tuesday, the 8th of October, 2019  
+**6.2. Theory (udacity)**. Networking for Web Developers - **is finished**  
+_what was new to me_: nothing (have got some CCNA certificates...)  
+_what surprised me_: nothing  
+_what I intend to use in future_: `tcpdump` utility  
+
+![udacity-networking-for-web-developers.png](task_networks/udacity-networking-for-web-developers.png)  
+
 ## Relational Databases Basics  
 
 Monday, the 16th of September, 2019  

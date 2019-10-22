@@ -183,9 +183,9 @@ _what I intend to use in future_: `tcpdump` utility
 Tuesday, the 22nd of October, 2019  
 **6.3. Practice**. Sniffer.js: [sniffer.js](task_networks/sniffer.js)  
 Required dependencies:  
-* 'commander': [nmp i commander](https://www.npmjs.com/package/commander)  
-* 'net': [nmp net](https://nodejs.org/api/net.html)  
-* 'async': [nmp i async](https://www.npmjs.com/package/async)  
+* 'commander': [npm i commander](https://www.npmjs.com/package/commander)  
+* 'net': [net standard module](https://nodejs.org/api/net.html)  
+* 'async': [npm i async](https://www.npmjs.com/package/async)  
 
 ## Relational Databases Basics  
 

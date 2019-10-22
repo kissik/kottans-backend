@@ -181,7 +181,7 @@ _what I intend to use in future_: `tcpdump` utility
 ![udacity-networking-for-web-developers.png](task_networks/udacity-networking-for-web-developers.png)  
 
 Tuesday, the 22nd of October, 2019  
-**6.3. Practice**. Sniffer.js: [sniffer.js](task_networks/sniffer.js)  
+**6.3. Practice**. Port-sniffer: [Node.js 2019 homeworks](https://github.com/kissik/nodejs-2019-homeworks/tree/master/submissions/kissik/port-sniffer)  
 Required dependencies:  
 * 'commander': [npm i commander](https://www.npmjs.com/package/commander)  
 * 'net': [net standard module](https://nodejs.org/api/net.html)  

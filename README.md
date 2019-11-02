@@ -166,7 +166,7 @@ _Memory Mapping Segment_, _Heap_ and _Stack_ fragments address: `Heap - 556f9423
 
 Thursday, the 3rd of October, 2019  
 **6.1. Theory (khanacademy)**. Internet Intro - **is finished**  
-_what was new to me_: nothing (have got some CCNA certificates...)  
+_what was new to me_: nothing  
 _what surprised me_: there are only women in IT ))))  
 _what I intend to use in future_: secure protocols for sure!  
 
@@ -174,7 +174,7 @@ _what I intend to use in future_: secure protocols for sure!
 
 Tuesday, the 8th of October, 2019  
 **6.2. Theory (udacity)**. Networking for Web Developers - **is finished**  
-_what was new to me_: nothing (have got some CCNA certificates...)  
+_what was new to me_: nothing  
 _what surprised me_: nothing  
 _what I intend to use in future_: `tcpdump` utility  
 
@@ -186,6 +186,27 @@ Required dependencies:
 * 'commander': [npm i commander](https://www.npmjs.com/package/commander)  
 * 'net': [net standard module](https://nodejs.org/api/net.html)  
 * 'async': [npm i async](https://www.npmjs.com/package/async)  
+
+## HTTP & HTTPS  
+
+Saturday, the 2nd of November, 2019  
+**7. Practice**. curl command output: [curl.txt](task_https/curl.txt)  
+_what was new to me_: nothing  
+_what surprised me_: nothing  
+_what I intend to use in future_: `curl` utility  
+
+1. Name at least three possible negative consequences of not using https:  
+- `potentially someone could listening on the communication: capturing the message with purpose to use it for harm`;  
+- `potentially someone could update information to misinformation in the message`;
+- `potentially someone could steal private info`.  
+1. Explain the main idea behind public key cryptography in few sentences: public key is used in asymmetric key algorithm to send private symmetric key.  
+1. You are creating an application for pet clinic. You need to implement the following functionality:  
+- add new pet (including name, age, breed, owner's name, medical history) (POST, request body, server returns page with info about new pet in it);  
+- search pet by name (GET, appends form-search-data into the URL in name/value pairs, server returns a list of pets with `name="value"`);  
+- change name of an existing pet (PUT, request body, server returns updated page);  
+- add new info about pet's health (POST, request body, server returns updated page with pet's health history);  
+- assign a pet to a particular doctor in the clinic (POST, request body, server returns pet's new assign to a doctor);  
+- register an appointment for a pet. This request should include info about pet, doctor and appointment date and time (POST, request body, server returns info about pet, doctor and appointment date and time).  
 
 ## Relational Databases Basics  
 
